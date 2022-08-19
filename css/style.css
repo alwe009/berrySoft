@@ -460,7 +460,7 @@ footer {
 }
 
 footer .footer-top {
-  padding-top: 80px;
+  padding-top: 50px;
   padding-bottom: 40px;
 }
 
@@ -531,4 +531,3 @@ input.form-control {
   box-shadow: none;
   border-color: var(--brand);
 }
-
